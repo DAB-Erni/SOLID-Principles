@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Boot Camp\\Downloads\\SOLID\\OpenClosedPrinciple\\OpenClosedPrinciple\\OpenClosedPrinciple.csproj",
+      "projectUniqueName": "C:\\Users\\Boot Camp\\Downloads\\Besmonte_Diane - SOLID Principles\\OpenClosedPrinciple\\OpenClosedPrinciple\\OpenClosedPrinciple.csproj",
       "projectName": "OpenClosedPrinciple",
-      "projectPath": "C:\\Users\\Boot Camp\\Downloads\\SOLID\\OpenClosedPrinciple\\OpenClosedPrinciple\\OpenClosedPrinciple.csproj",
+      "projectPath": "C:\\Users\\Boot Camp\\Downloads\\Besmonte_Diane - SOLID Principles\\OpenClosedPrinciple\\OpenClosedPrinciple\\OpenClosedPrinciple.csproj",
       "packagesPath": "C:\\Users\\Boot Camp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Boot Camp\\Downloads\\SOLID\\OpenClosedPrinciple\\OpenClosedPrinciple\\obj\\",
+      "outputPath": "C:\\Users\\Boot Camp\\Downloads\\Besmonte_Diane - SOLID Principles\\OpenClosedPrinciple\\OpenClosedPrinciple\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Boot Camp\\AppData\\Roaming\\NuGet\\NuGet.Config",

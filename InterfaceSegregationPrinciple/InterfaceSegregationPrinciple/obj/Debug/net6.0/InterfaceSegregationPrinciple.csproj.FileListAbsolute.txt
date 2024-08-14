@@ -1,0 +1,30 @@
+C:\Users\Boot Camp\Downloads\SOLID\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net6.0\InterfaceSegregationPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boot Camp\Downloads\SOLID\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net6.0\InterfaceSegregationPrinciple.AssemblyInfoInputs.cache
+C:\Users\Boot Camp\Downloads\SOLID\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net6.0\InterfaceSegregationPrinciple.AssemblyInfo.cs
+C:\Users\Boot Camp\Downloads\SOLID\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net6.0\InterfaceSegregationPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Boot Camp\Downloads\SOLID\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net6.0\InterfaceSegregationPrinciple.sourcelink.json
+C:\Users\Boot Camp\Downloads\SOLID\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\net6.0\InterfaceSegregationPrinciple.exe
+C:\Users\Boot Camp\Downloads\SOLID\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\net6.0\InterfaceSegregationPrinciple.deps.json
+C:\Users\Boot Camp\Downloads\SOLID\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\net6.0\InterfaceSegregationPrinciple.runtimeconfig.json
+C:\Users\Boot Camp\Downloads\SOLID\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\net6.0\InterfaceSegregationPrinciple.dll
+C:\Users\Boot Camp\Downloads\SOLID\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\net6.0\InterfaceSegregationPrinciple.pdb
+C:\Users\Boot Camp\Downloads\SOLID\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net6.0\InterfaceSegregationPrinciple.dll
+C:\Users\Boot Camp\Downloads\SOLID\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net6.0\refint\InterfaceSegregationPrinciple.dll
+C:\Users\Boot Camp\Downloads\SOLID\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net6.0\InterfaceSegregationPrinciple.pdb
+C:\Users\Boot Camp\Downloads\SOLID\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net6.0\InterfaceSegregationPrinciple.genruntimeconfig.cache
+C:\Users\Boot Camp\Downloads\SOLID\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net6.0\ref\InterfaceSegregationPrinciple.dll
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\net6.0\InterfaceSegregationPrinciple.exe
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\net6.0\InterfaceSegregationPrinciple.deps.json
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\net6.0\InterfaceSegregationPrinciple.runtimeconfig.json
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\net6.0\InterfaceSegregationPrinciple.dll
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\net6.0\InterfaceSegregationPrinciple.pdb
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net6.0\InterfaceSegregationPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net6.0\InterfaceSegregationPrinciple.AssemblyInfoInputs.cache
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net6.0\InterfaceSegregationPrinciple.AssemblyInfo.cs
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net6.0\InterfaceSegregationPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net6.0\InterfaceSegregationPrinciple.sourcelink.json
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net6.0\InterfaceSegregationPrinciple.dll
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net6.0\refint\InterfaceSegregationPrinciple.dll
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net6.0\InterfaceSegregationPrinciple.pdb
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net6.0\InterfaceSegregationPrinciple.genruntimeconfig.cache
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net6.0\ref\InterfaceSegregationPrinciple.dll

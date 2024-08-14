@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Boot Camp\\Downloads\\SOLID\\OpenClosedPrinciple\\",
+  "WorkspaceRootPath": "C:\\Users\\Boot Camp\\Downloads\\Besmonte_Diane - SOLID Principles\\OpenClosedPrinciple\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5170693B-131D-42C9-AD71-9EF0E84BB31B}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|c:\\users\\boot camp\\downloads\\solid\\openclosedprinciple\\openclosedprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5170693B-131D-42C9-AD71-9EF0E84BB31B}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|c:\\users\\boot camp\\downloads\\besmonte_diane - solid principles\\openclosedprinciple\\openclosedprinciple\\encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5170693B-131D-42C9-AD71-9EF0E84BB31B}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|solutionrelative:openclosedprinciple\\encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5170693B-131D-42C9-AD71-9EF0E84BB31B}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|c:\\users\\boot camp\\downloads\\besmonte_diane - solid principles\\openclosedprinciple\\openclosedprinciple\\iencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5170693B-131D-42C9-AD71-9EF0E84BB31B}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|solutionrelative:openclosedprinciple\\iencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5170693B-131D-42C9-AD71-9EF0E84BB31B}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|c:\\users\\boot camp\\downloads\\besmonte_diane - solid principles\\openclosedprinciple\\openclosedprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5170693B-131D-42C9-AD71-9EF0E84BB31B}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|solutionrelative:openclosedprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -35,12 +43,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Encryption.cs",
+              "DocumentMoniker": "C:\\Users\\Boot Camp\\Downloads\\Besmonte_Diane - SOLID Principles\\OpenClosedPrinciple\\OpenClosedPrinciple\\Encryption.cs",
+              "RelativeDocumentMoniker": "OpenClosedPrinciple\\Encryption.cs",
+              "ToolTip": "C:\\Users\\Boot Camp\\Downloads\\Besmonte_Diane - SOLID Principles\\OpenClosedPrinciple\\OpenClosedPrinciple\\Encryption.cs",
+              "RelativeToolTip": "OpenClosedPrinciple\\Encryption.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAYwBYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T08:07:27.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEncryption.cs",
+              "DocumentMoniker": "C:\\Users\\Boot Camp\\Downloads\\Besmonte_Diane - SOLID Principles\\OpenClosedPrinciple\\OpenClosedPrinciple\\IEncryption.cs",
+              "RelativeDocumentMoniker": "OpenClosedPrinciple\\IEncryption.cs",
+              "ToolTip": "C:\\Users\\Boot Camp\\Downloads\\Besmonte_Diane - SOLID Principles\\OpenClosedPrinciple\\OpenClosedPrinciple\\IEncryption.cs",
+              "RelativeToolTip": "OpenClosedPrinciple\\IEncryption.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T08:06:21.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Boot Camp\\Downloads\\SOLID\\OpenClosedPrinciple\\OpenClosedPrinciple\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Boot Camp\\Downloads\\Besmonte_Diane - SOLID Principles\\OpenClosedPrinciple\\OpenClosedPrinciple\\Program.cs",
               "RelativeDocumentMoniker": "OpenClosedPrinciple\\Program.cs",
-              "ToolTip": "C:\\Users\\Boot Camp\\Downloads\\SOLID\\OpenClosedPrinciple\\OpenClosedPrinciple\\Program.cs",
+              "ToolTip": "C:\\Users\\Boot Camp\\Downloads\\Besmonte_Diane - SOLID Principles\\OpenClosedPrinciple\\OpenClosedPrinciple\\Program.cs",
               "RelativeToolTip": "OpenClosedPrinciple\\Program.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAgwCAAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-13T07:35:11.399Z",
               "EditorCaption": ""

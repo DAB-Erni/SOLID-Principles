@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Boot Camp\\Downloads\\SOLID\\SingleReponsibilityPrinciple\\SingleReponsibilityPrinciple\\SingleReponsibilityPrinciple.csproj",
+      "projectUniqueName": "C:\\Users\\Boot Camp\\Downloads\\Besmonte_Diane - SOLID Principles\\SingleReponsibilityPrinciple\\SingleReponsibilityPrinciple\\SingleReponsibilityPrinciple.csproj",
       "projectName": "SingleReponsibilityPrinciple",
-      "projectPath": "C:\\Users\\Boot Camp\\Downloads\\SOLID\\SingleReponsibilityPrinciple\\SingleReponsibilityPrinciple\\SingleReponsibilityPrinciple.csproj",
+      "projectPath": "C:\\Users\\Boot Camp\\Downloads\\Besmonte_Diane - SOLID Principles\\SingleReponsibilityPrinciple\\SingleReponsibilityPrinciple\\SingleReponsibilityPrinciple.csproj",
       "packagesPath": "C:\\Users\\Boot Camp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Boot Camp\\Downloads\\SOLID\\SingleReponsibilityPrinciple\\SingleReponsibilityPrinciple\\obj\\",
+      "outputPath": "C:\\Users\\Boot Camp\\Downloads\\Besmonte_Diane - SOLID Principles\\SingleReponsibilityPrinciple\\SingleReponsibilityPrinciple\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Boot Camp\\AppData\\Roaming\\NuGet\\NuGet.Config",

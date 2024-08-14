@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Boot Camp\\Downloads\\SOLID\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj",
+      "projectUniqueName": "C:\\Users\\Boot Camp\\Downloads\\Besmonte_Diane - SOLID Principles\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj",
       "projectName": "LiskovSubstitutionPrinciple",
-      "projectPath": "C:\\Users\\Boot Camp\\Downloads\\SOLID\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj",
+      "projectPath": "C:\\Users\\Boot Camp\\Downloads\\Besmonte_Diane - SOLID Principles\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj",
       "packagesPath": "C:\\Users\\Boot Camp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Boot Camp\\Downloads\\SOLID\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple\\obj\\",
+      "outputPath": "C:\\Users\\Boot Camp\\Downloads\\Besmonte_Diane - SOLID Principles\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Boot Camp\\AppData\\Roaming\\NuGet\\NuGet.Config",

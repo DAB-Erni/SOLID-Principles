@@ -12,3 +12,19 @@ C:\Users\Boot Camp\Downloads\SOLID\OpenClosedPrinciple\OpenClosedPrinciple\obj\D
 C:\Users\Boot Camp\Downloads\SOLID\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\net6.0\OpenClosedPrinciple.pdb
 C:\Users\Boot Camp\Downloads\SOLID\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\net6.0\OpenClosedPrinciple.genruntimeconfig.cache
 C:\Users\Boot Camp\Downloads\SOLID\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\net6.0\ref\OpenClosedPrinciple.dll
+C:\Users\Boot Camp\Downloads\SOLID\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\net6.0\OpenClosedPrinciple.sourcelink.json
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\net6.0\OpenClosedPrinciple.exe
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\net6.0\OpenClosedPrinciple.deps.json
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\net6.0\OpenClosedPrinciple.runtimeconfig.json
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\net6.0\OpenClosedPrinciple.dll
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\net6.0\OpenClosedPrinciple.pdb
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\net6.0\OpenClosedPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\net6.0\OpenClosedPrinciple.AssemblyInfoInputs.cache
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\net6.0\OpenClosedPrinciple.AssemblyInfo.cs
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\net6.0\OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\net6.0\OpenClosedPrinciple.sourcelink.json
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\net6.0\OpenClosedPrinciple.dll
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\net6.0\refint\OpenClosedPrinciple.dll
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\net6.0\OpenClosedPrinciple.pdb
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\net6.0\OpenClosedPrinciple.genruntimeconfig.cache
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\net6.0\ref\OpenClosedPrinciple.dll

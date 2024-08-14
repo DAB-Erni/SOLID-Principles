@@ -1,9 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Boot Camp\\Downloads\\SOLID\\LiskovSubstitutionPrinciple\\",
+  "WorkspaceRootPath": "C:\\Users\\Boot Camp\\Downloads\\Besmonte_Diane - SOLID Principles\\LiskovSubstitutionPrinciple\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C48592E-4310-433D-9CF8-2CEE9C919DD8}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|c:\\users\\boot camp\\downloads\\solid\\liskovsubstitutionprinciple\\liskovsubstitutionprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C48592E-4310-433D-9CF8-2CEE9C919DD8}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|c:\\users\\boot camp\\downloads\\besmonte_diane - solid principles\\liskovsubstitutionprinciple\\liskovsubstitutionprinciple\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C48592E-4310-433D-9CF8-2CEE9C919DD8}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|solutionrelative:liskovsubstitutionprinciple\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C48592E-4310-433D-9CF8-2CEE9C919DD8}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|c:\\users\\boot camp\\downloads\\besmonte_diane - solid principles\\liskovsubstitutionprinciple\\liskovsubstitutionprinciple\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C48592E-4310-433D-9CF8-2CEE9C919DD8}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|solutionrelative:liskovsubstitutionprinciple\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C48592E-4310-433D-9CF8-2CEE9C919DD8}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|c:\\users\\boot camp\\downloads\\besmonte_diane - solid principles\\liskovsubstitutionprinciple\\liskovsubstitutionprinciple\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C48592E-4310-433D-9CF8-2CEE9C919DD8}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|solutionrelative:liskovsubstitutionprinciple\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C48592E-4310-433D-9CF8-2CEE9C919DD8}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|c:\\users\\boot camp\\downloads\\besmonte_diane - solid principles\\liskovsubstitutionprinciple\\liskovsubstitutionprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C48592E-4310-433D-9CF8-2CEE9C919DD8}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|solutionrelative:liskovsubstitutionprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -35,15 +47,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Boot Camp\\Downloads\\SOLID\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple\\Program.cs",
-              "RelativeDocumentMoniker": "LiskovSubstitutionPrinciple\\Program.cs",
-              "ToolTip": "C:\\Users\\Boot Camp\\Downloads\\SOLID\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple\\Program.cs",
-              "RelativeToolTip": "LiskovSubstitutionPrinciple\\Program.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAcwEIAAAABAAAA",
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Boot Camp\\Downloads\\Besmonte_Diane - SOLID Principles\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple\\Employee.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrinciple\\Employee.cs",
+              "ToolTip": "C:\\Users\\Boot Camp\\Downloads\\Besmonte_Diane - SOLID Principles\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple\\Employee.cs",
+              "RelativeToolTip": "LiskovSubstitutionPrinciple\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T08:12:56.928Z",
+              "WhenOpened": "2024-08-14T08:10:27.978Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Boot Camp\\Downloads\\Besmonte_Diane - SOLID Principles\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple\\Admin.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrinciple\\Admin.cs",
+              "ToolTip": "C:\\Users\\Boot Camp\\Downloads\\Besmonte_Diane - SOLID Principles\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple\\Admin.cs",
+              "RelativeToolTip": "LiskovSubstitutionPrinciple\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T08:09:53.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Boot Camp\\Downloads\\Besmonte_Diane - SOLID Principles\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple\\User.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrinciple\\User.cs",
+              "ToolTip": "C:\\Users\\Boot Camp\\Downloads\\Besmonte_Diane - SOLID Principles\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple\\User.cs",
+              "RelativeToolTip": "LiskovSubstitutionPrinciple\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T08:09:02.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Boot Camp\\Downloads\\Besmonte_Diane - SOLID Principles\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple\\Program.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrinciple\\Program.cs",
+              "ToolTip": "C:\\Users\\Boot Camp\\Downloads\\Besmonte_Diane - SOLID Principles\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple\\Program.cs",
+              "RelativeToolTip": "LiskovSubstitutionPrinciple\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T08:12:56.928Z"
             }
           ]
         }

@@ -12,3 +12,18 @@ C:\Users\Boot Camp\Downloads\SOLID\SingleReponsibilityPrinciple\SingleReponsibil
 C:\Users\Boot Camp\Downloads\SOLID\SingleReponsibilityPrinciple\SingleReponsibilityPrinciple\obj\Debug\net6.0\SingleReponsibilityPrinciple.pdb
 C:\Users\Boot Camp\Downloads\SOLID\SingleReponsibilityPrinciple\SingleReponsibilityPrinciple\obj\Debug\net6.0\SingleReponsibilityPrinciple.genruntimeconfig.cache
 C:\Users\Boot Camp\Downloads\SOLID\SingleReponsibilityPrinciple\SingleReponsibilityPrinciple\obj\Debug\net6.0\ref\SingleReponsibilityPrinciple.dll
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\SingleReponsibilityPrinciple\SingleReponsibilityPrinciple\bin\Debug\net6.0\SingleReponsibilityPrinciple.exe
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\SingleReponsibilityPrinciple\SingleReponsibilityPrinciple\bin\Debug\net6.0\SingleReponsibilityPrinciple.deps.json
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\SingleReponsibilityPrinciple\SingleReponsibilityPrinciple\bin\Debug\net6.0\SingleReponsibilityPrinciple.runtimeconfig.json
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\SingleReponsibilityPrinciple\SingleReponsibilityPrinciple\bin\Debug\net6.0\SingleReponsibilityPrinciple.dll
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\SingleReponsibilityPrinciple\SingleReponsibilityPrinciple\bin\Debug\net6.0\SingleReponsibilityPrinciple.pdb
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\SingleReponsibilityPrinciple\SingleReponsibilityPrinciple\obj\Debug\net6.0\SingleReponsibilityPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\SingleReponsibilityPrinciple\SingleReponsibilityPrinciple\obj\Debug\net6.0\SingleReponsibilityPrinciple.AssemblyInfoInputs.cache
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\SingleReponsibilityPrinciple\SingleReponsibilityPrinciple\obj\Debug\net6.0\SingleReponsibilityPrinciple.AssemblyInfo.cs
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\SingleReponsibilityPrinciple\SingleReponsibilityPrinciple\obj\Debug\net6.0\SingleReponsibilityPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\SingleReponsibilityPrinciple\SingleReponsibilityPrinciple\obj\Debug\net6.0\SingleReponsibilityPrinciple.sourcelink.json
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\SingleReponsibilityPrinciple\SingleReponsibilityPrinciple\obj\Debug\net6.0\SingleReponsibilityPrinciple.dll
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\SingleReponsibilityPrinciple\SingleReponsibilityPrinciple\obj\Debug\net6.0\refint\SingleReponsibilityPrinciple.dll
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\SingleReponsibilityPrinciple\SingleReponsibilityPrinciple\obj\Debug\net6.0\SingleReponsibilityPrinciple.pdb
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\SingleReponsibilityPrinciple\SingleReponsibilityPrinciple\obj\Debug\net6.0\SingleReponsibilityPrinciple.genruntimeconfig.cache
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\SingleReponsibilityPrinciple\SingleReponsibilityPrinciple\obj\Debug\net6.0\ref\SingleReponsibilityPrinciple.dll

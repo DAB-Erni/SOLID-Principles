@@ -1,0 +1,30 @@
+C:\Users\Boot Camp\Downloads\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net6.0\DependencyInversionPrinciple.exe
+C:\Users\Boot Camp\Downloads\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net6.0\DependencyInversionPrinciple.deps.json
+C:\Users\Boot Camp\Downloads\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net6.0\DependencyInversionPrinciple.runtimeconfig.json
+C:\Users\Boot Camp\Downloads\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net6.0\DependencyInversionPrinciple.dll
+C:\Users\Boot Camp\Downloads\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net6.0\DependencyInversionPrinciple.pdb
+C:\Users\Boot Camp\Downloads\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boot Camp\Downloads\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.AssemblyInfoInputs.cache
+C:\Users\Boot Camp\Downloads\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.AssemblyInfo.cs
+C:\Users\Boot Camp\Downloads\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Boot Camp\Downloads\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.sourcelink.json
+C:\Users\Boot Camp\Downloads\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.dll
+C:\Users\Boot Camp\Downloads\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\refint\DependencyInversionPrinciple.dll
+C:\Users\Boot Camp\Downloads\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.pdb
+C:\Users\Boot Camp\Downloads\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.genruntimeconfig.cache
+C:\Users\Boot Camp\Downloads\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\ref\DependencyInversionPrinciple.dll
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net6.0\DependencyInversionPrinciple.exe
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net6.0\DependencyInversionPrinciple.deps.json
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net6.0\DependencyInversionPrinciple.runtimeconfig.json
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net6.0\DependencyInversionPrinciple.dll
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\net6.0\DependencyInversionPrinciple.pdb
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.AssemblyInfoInputs.cache
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.AssemblyInfo.cs
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.sourcelink.json
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.dll
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\refint\DependencyInversionPrinciple.dll
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.pdb
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.genruntimeconfig.cache
+C:\Users\Boot Camp\Downloads\Besmonte_Diane - SOLID Principles\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\net6.0\ref\DependencyInversionPrinciple.dll
